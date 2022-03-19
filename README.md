@@ -1,2 +1,6 @@
-# NityoExam
-Repository for the process used in the Nityo Examination
+# Nityo Exam
+This repository contains the general processes used in the Nityo Examination.
+- Prepared by Angelo Dela Torre
+
+
+
